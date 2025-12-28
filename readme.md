@@ -18,7 +18,7 @@ https://arxiv.org/pdf/1904.06560
 ROADMAP  
 * single qubit  
 * relaxation/decay (T1, T2, T2*) noise -> ramsey interferometry, hahn spin echo demo  
-qubit driving (x/y rotation in rotating frame)
+* live precession + qubit driving (x/y rotation in rotating frame)
 lindblad qubit-environment interaction  
 two/multi qubit entanglement & multiqubit gates  
   
